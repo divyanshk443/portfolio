@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65387d57b01fd7bbb52d0d001dc7cd50",
+    "revision": "752e5fc9191f2db10413b6e1966b5612",
     "url": "./index.html"
   },
   {
-    "revision": "2bab25e658a8fc49d26d",
+    "revision": "73daaeaccec25674fa3b",
     "url": "./static/css/main.9a742ae7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.d26ddb08.chunk.js"
   },
   {
-    "revision": "2bab25e658a8fc49d26d",
-    "url": "./static/js/main.99f5b623.chunk.js"
+    "revision": "73daaeaccec25674fa3b",
+    "url": "./static/js/main.5716ca6f.chunk.js"
   },
   {
     "revision": "04f9dce1e97d7eaf839f",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
-  },
-  {
-    "revision": "785f87c2d7ab9f45a2facd291bf9af43",
-    "url": "./static/media/Logo_of_IIT_Bhilai.785f87c2.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -214,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "./static/media/legato_logo.c597fbde.png"
+  },
+  {
+    "revision": "785f87c2d7ab9f45a2facd291bf9af43",
+    "url": "./static/media/logo.785f87c2.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
