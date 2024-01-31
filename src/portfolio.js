@@ -49,12 +49,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "LeetCode",
-    fontAwesomeIcon: "simple-icons:leetcode",
-    link: "https://leetcode.com/divyansh_khandelwal/",
-    backgroundColor: "#D14836",
-  },
+  // {
+  //   name: "LeetCode",
+  //   fontAwesomeIcon: "simple-icons:leetcode",
+  //   link: "https://leetcode.com/divyansh_khandelwal/",
+  //   backgroundColor: "#D14836",
+  // },
 ];
 
 const skills = {
@@ -324,7 +324,7 @@ const degrees = {
       title: "INDIAN INSTITUTE OF TECHNOLOGY (IIT), BHILAI",
       subtitle: "B.TECH IN COMPUTER SCIENCE AND ENGINEERING CGPA : 8.43/10",
       logo_path: "Logo_of_IIT_Bhilai.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "IIT Bhila",
       duration: "2018 - 2022",
       descriptions: [
         "⚡ My journey at IIT Bhilai has been incredibly enriching, both academically and personally. The rigorous curriculum, coupled with hands-on projects and extracurricular activities, has equipped me with a comprehensive understanding of computer science and engineering",
@@ -398,38 +398,37 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "Software Engineer",
+          company: "Airasia",
+          company_url: "https://airasia.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          duration: "June 2022 - Current",
+          location: "Remote",
+          description: "I am working in a flight platform team",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          title: "SDE INTERN",
+          company: "TRUMINDS SOFTWARE SYSTEM",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          duration: "May 2021 - July 2021",
+          location: "Remote",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Built a Data Pipeline for Event-driven architecture for Optimization and Visualization.\n Created Pipeline transforms the event asynchronously from mongodb to elasticsearch using logstash conf \n file and mongodb jdbc drivers and then filtered and scraped the data from elasticsearch using node js.",
           color: "#9b1578",
         },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
+        // {
+        //   title: "Android Developer",
+        //   company: "FreeCopy Pvt. Ltd.",
+        //   company_url: "https://www.linkedin.com/company/freecopy/about/",
+        //   logo_path: "freecopy_logo.png",
+        //   duration: "Nov 2017 - Dec 2017",
+        //   location: "Ahmedabad, Gujarat",
+        //   description:
+        //     "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+        //   color: "#fc1f20",
+        // },
       ],
     },
     // {
