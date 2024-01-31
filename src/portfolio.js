@@ -323,7 +323,7 @@ const degrees = {
     {
       title: "INDIAN INSTITUTE OF TECHNOLOGY (IIT), BHILAI",
       subtitle: "B.TECH IN COMPUTER SCIENCE AND ENGINEERING CGPA : 8.43/10",
-      logo_path: "Logo_of_IIT_Bhilai.png",
+      logo_path: "logo.png",
       alt_name: "IITssssss  B",
       duration: "2018 - 2022",
       descriptions: [
