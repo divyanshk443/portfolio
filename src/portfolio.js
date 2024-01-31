@@ -324,7 +324,7 @@ const degrees = {
       title: "INDIAN INSTITUTE OF TECHNOLOGY (IIT), BHILAI",
       subtitle: "B.TECH IN COMPUTER SCIENCE AND ENGINEERING CGPA : 8.43/10",
       logo_path: "Logo_of_IIT_Bhilai.png",
-      alt_name: "IIT Bhila",
+      alt_name: "IITssssss  B",
       duration: "2018 - 2022",
       descriptions: [
         "⚡ My journey at IIT Bhilai has been incredibly enriching, both academically and personally. The rigorous curriculum, coupled with hands-on projects and extracurricular activities, has equipped me with a comprehensive understanding of computer science and engineering",
